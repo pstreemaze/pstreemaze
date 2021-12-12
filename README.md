@@ -9,7 +9,7 @@
 
 
 <br />
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=pstreemaze&color=orange&style=plastic&label=PROFILE+VISITS&show_icons=true" alt="pstreemaze" />
 </p>
 <h3> About Me  🚀 </h3>
