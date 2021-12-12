@@ -9,6 +9,9 @@
 
 
 <br />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pstreemaze&color=orange&style=plastic&label=PROFILE+VISITS&show_icons=true" alt="pstreemaze" />
+</p>
 <h3> About Me  🚀 </h3>
 <p>
 🔭 I'm a passionate Software Engineer with a knack of learning something new everyday.
