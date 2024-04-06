@@ -45,7 +45,7 @@
     <td><b style="font-size:30px">Github Stats</b></td>
  </tr>
  <tr>
-    <td><a href="https://app.daily.dev/francescociulla"><img src="./devcard.png" width="356" alt="Francesco's Dev Card"/></a>
+    <td><a href="https://app.daily.dev/rutvika"><img src="./devcard.png" width="356" alt="Rutvika's Dev Card"/></a>
 </td>
     <td><p align="center">
 <img src="https://media.giphy.com/media/3o7abAHdYvZdBNnGZq/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats: </b></i>📈<br><br>
