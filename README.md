@@ -31,17 +31,30 @@
 <br>
 
 - 💻  &nbsp; Data Structures & Algorithms | C++ | Java | Natural Language Processing (NLP)  
-- 🌐  &nbsp; HTML | CSS | JavaScript 
+- 🌐  &nbsp; Typescript| React | HTML | CSS | JavaScript 
 - 🐍  &nbsp; Machine Learning | Python | Spacy | Jupyter | OpenCV
-- ☁  &nbsp; Microsoft Azure | Operating System | Database | SQL
-- 🔧  &nbsp; Visual Studio code | Sublime | PyCharm | Anaconda | Git | Github | Eclipse 
+- ☁  &nbsp;  Operating System | Database | SQL
+- 🔧  &nbsp; Visual Studio code | Sublime | PyCharm | Anaconda | Git | Github | Eclipse | IntelliJ
 
 
 </br>
 
-
-<p align="center">
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">Reading👓(Recent Addition)</b></td>
+    <td><b style="font-size:30px">Github Stats</b></td>
+ </tr>
+ <tr>
+    <td><a href="https://app.daily.dev/rutvika"><img src="https://api.daily.dev/devcards/v2/FDM9o0IilCNHwliG2hIRh.png?r=s5a" width="356" alt="Rutvika's Dev Card"/></a></td>
+    <td><p align="center">
 <img src="https://media.giphy.com/media/3o7abAHdYvZdBNnGZq/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats: </b></i>📈<br><br>
 <img width="470px" height="180px" src="https://github-readme-stats.vercel.app/api?username=pstreemaze&count_private=true&show_icons=true&theme=radical" alt="GitHub Status"/>
 <img width="470px" height="180px" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pstreemaze&show_icons=true&layout=compact&theme=radical" alt="Most Used Languages">
-</p>
+</p></td>
+ </tr>
+</table>
+
+
+
+
+
