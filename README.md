@@ -45,7 +45,8 @@
     <td><b style="font-size:30px">Github Stats</b></td>
  </tr>
  <tr>
-    <td><a href="https://app.daily.dev/rutvika"><img src="https://api.daily.dev/devcards/v2/FDM9o0IilCNHwliG2hIRh.png?r=s5a" width="356" alt="Rutvika's Dev Card"/></a></td>
+    <td><a href="https://app.daily.dev/francescociulla"><img src="./devcard.png" width="356" alt="Francesco's Dev Card"/></a>
+</td>
     <td><p align="center">
 <img src="https://media.giphy.com/media/3o7abAHdYvZdBNnGZq/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats: </b></i>📈<br><br>
 <img width="470px" height="180px" src="https://github-readme-stats.vercel.app/api?username=pstreemaze&count_private=true&show_icons=true&theme=radical" alt="GitHub Status"/>
